@@ -45,6 +45,6 @@ public class Product {
     @Column(nullable = false)
     private String imageLink;
     @Column(nullable = false)
-    private String price;
+    private String price;                   
 
 }
