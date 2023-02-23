@@ -144,7 +144,7 @@ class ProductsServiceApplicationTests {
 	}
 
 	@Test
-	void canSaveHotel(){
+	void canSaveProduct(){
 		Long myId = 1L;
 		String myName = "chair";
 		String myShortDescription = "good chair";
